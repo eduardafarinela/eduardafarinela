@@ -3,7 +3,7 @@
 
  
 
-- ola eu sou eduarda farinela
+- ola eu sou *Eduarda farinela
 - 👍 Meu email é eduarda.farinela@escola.pr.gov.br
 - 👀 Estou interessado em aprender sobre programação ...
 - 🌱 Em programar jogos no Scratch e no Github ...
